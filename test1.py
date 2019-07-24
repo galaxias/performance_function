@@ -69,5 +69,5 @@ plt.title('Performance Function',fontsize=10)
 plt.xlabel('x')
 plt.ylabel('Performance')
 
-plt.savefig("integrate_normal_distribution.png")
+plt.savefig("performance_function.png")
 plt.show()
